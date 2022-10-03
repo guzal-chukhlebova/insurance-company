@@ -1,2 +1,2 @@
-# insurance-company
+# Insurance-company
 Анализ страховых выплат
